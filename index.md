@@ -1,7 +1,5 @@
-# uberearnings.com
-Uber driver's who publish their earnings daily
 
-# Locations
+# Current Locations
 - Sydney, Australia
 
 ## Sydney
