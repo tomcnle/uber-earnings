@@ -1,1 +1,1 @@
-# uber-earnings
+# uberearnings.com
