@@ -3,6 +3,14 @@ Layout: Default
 Title: Uber Earnings
 ---
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-1808915399476667",
+    enable_page_level_ads: true
+  });
+</script>
+
 Uber drivers who publish their earnings daily for the benefit of other drivers
 
 # Current Locations
