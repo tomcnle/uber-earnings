@@ -1,3 +1,7 @@
+---
+Title: Uber Earnings
+Layout: None
+---
 
 Uber drivers who publish their earnings daily for the benefit of other drivers
 
