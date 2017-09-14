@@ -11,7 +11,16 @@ Title: Uber Earnings
   });
 </script>
 
+
 Uber drivers who publish their earnings daily for the benefit of other drivers
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
 # Current Locations
 - Sydney, Australia
